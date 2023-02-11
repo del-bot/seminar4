@@ -1,0 +1,15 @@
+/Users/delyashchuriumova/example11fev/ex29version2/bin/Debug/net6.0/ex29version2
+/Users/delyashchuriumova/example11fev/ex29version2/bin/Debug/net6.0/ex29version2.deps.json
+/Users/delyashchuriumova/example11fev/ex29version2/bin/Debug/net6.0/ex29version2.runtimeconfig.json
+/Users/delyashchuriumova/example11fev/ex29version2/bin/Debug/net6.0/ex29version2.dll
+/Users/delyashchuriumova/example11fev/ex29version2/bin/Debug/net6.0/ex29version2.pdb
+/Users/delyashchuriumova/example11fev/ex29version2/obj/Debug/net6.0/ex29version2.csproj.AssemblyReference.cache
+/Users/delyashchuriumova/example11fev/ex29version2/obj/Debug/net6.0/ex29version2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/delyashchuriumova/example11fev/ex29version2/obj/Debug/net6.0/ex29version2.AssemblyInfoInputs.cache
+/Users/delyashchuriumova/example11fev/ex29version2/obj/Debug/net6.0/ex29version2.AssemblyInfo.cs
+/Users/delyashchuriumova/example11fev/ex29version2/obj/Debug/net6.0/ex29version2.csproj.CoreCompileInputs.cache
+/Users/delyashchuriumova/example11fev/ex29version2/obj/Debug/net6.0/ex29version2.dll
+/Users/delyashchuriumova/example11fev/ex29version2/obj/Debug/net6.0/refint/ex29version2.dll
+/Users/delyashchuriumova/example11fev/ex29version2/obj/Debug/net6.0/ex29version2.pdb
+/Users/delyashchuriumova/example11fev/ex29version2/obj/Debug/net6.0/ex29version2.genruntimeconfig.cache
+/Users/delyashchuriumova/example11fev/ex29version2/obj/Debug/net6.0/ref/ex29version2.dll
