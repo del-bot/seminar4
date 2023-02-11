@@ -1,0 +1,15 @@
+/Users/delyashchuriumova/example11fev/ex25/bin/Debug/net6.0/ex25
+/Users/delyashchuriumova/example11fev/ex25/bin/Debug/net6.0/ex25.deps.json
+/Users/delyashchuriumova/example11fev/ex25/bin/Debug/net6.0/ex25.runtimeconfig.json
+/Users/delyashchuriumova/example11fev/ex25/bin/Debug/net6.0/ex25.dll
+/Users/delyashchuriumova/example11fev/ex25/bin/Debug/net6.0/ex25.pdb
+/Users/delyashchuriumova/example11fev/ex25/obj/Debug/net6.0/ex25.csproj.AssemblyReference.cache
+/Users/delyashchuriumova/example11fev/ex25/obj/Debug/net6.0/ex25.GeneratedMSBuildEditorConfig.editorconfig
+/Users/delyashchuriumova/example11fev/ex25/obj/Debug/net6.0/ex25.AssemblyInfoInputs.cache
+/Users/delyashchuriumova/example11fev/ex25/obj/Debug/net6.0/ex25.AssemblyInfo.cs
+/Users/delyashchuriumova/example11fev/ex25/obj/Debug/net6.0/ex25.csproj.CoreCompileInputs.cache
+/Users/delyashchuriumova/example11fev/ex25/obj/Debug/net6.0/ex25.dll
+/Users/delyashchuriumova/example11fev/ex25/obj/Debug/net6.0/refint/ex25.dll
+/Users/delyashchuriumova/example11fev/ex25/obj/Debug/net6.0/ex25.pdb
+/Users/delyashchuriumova/example11fev/ex25/obj/Debug/net6.0/ex25.genruntimeconfig.cache
+/Users/delyashchuriumova/example11fev/ex25/obj/Debug/net6.0/ref/ex25.dll
